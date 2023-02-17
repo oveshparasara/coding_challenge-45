@@ -1,0 +1,29 @@
+{
+  "name": "voice-assistant",
+  "version": "1.0.0",
+  "description": "Simple Voice Assistant with Socket.IO, Web Speech API, & Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oveshparasara/coding_challenge-45.git"
+  },
+  "keywords": [
+    "voice",
+    "assistant"
+  ],
+  "author": "ovesh.parasara@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oveshparasara/coding_challenge-45/issues"
+  },
+  "homepage": "https://github.com/oveshparasara/coding_challenge-45#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "open": "^8.4.1",
+    "socket.io": "^4.6.0"
+  }
+}
